@@ -1,0 +1,8 @@
+vcount=0
+str=”hello world”
+
+for i in range(0,len(string)):
+if string[i] in ( ‘a’,’o’,’i’,’u’,’e’):
+vcount=vcount+1
+
+print(vcount)
